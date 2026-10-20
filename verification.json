@@ -1,0 +1,43 @@
+{
+  "resource": {
+    "entries_scanned": 61177,
+    "extracted_by_type": {
+      "jtoc": 1,
+      "jarc": 2,
+      "jtex": 11601,
+      "jpfb": 2945,
+      "mesh": 7212,
+      "skel": 3408,
+      "jmo2": 6079
+    },
+    "bytes": 10394476444,
+    "verification": "All selected files: size, format signature, and SHA-256 matched"
+  },
+  "resource_patch": {
+    "entries_scanned": 66178,
+    "extracted_by_type": {
+      "jtoc": 1,
+      "jarc": 2,
+      "jpfb": 3922,
+      "mesh": 11616,
+      "skel": 4260,
+      "jtex": 10131,
+      "jmo2": 7144
+    },
+    "bytes": 18712886695,
+    "verification": "All selected files: size, format signature, and SHA-256 matched"
+  },
+  "download": {
+    "entries_scanned": 2839,
+    "extracted_by_type": {
+      "jtoc": 2,
+      "mesh": 520,
+      "skel": 190,
+      "jmo2": 325,
+      "jpfb": 74,
+      "jtex": 704
+    },
+    "bytes": 2388997354,
+    "verification": "All selected files: size, format signature, and SHA-256 matched"
+  }
+}
